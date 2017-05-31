@@ -1,0 +1,34 @@
+<Shop>
+	<Item>
+		<speed>1.5</speed>
+		<rotate>1.5</rotate>
+		<model>ShipUI/Ship_1</model>
+		<price>2000</price>
+		<id>0</id>
+    <prefab>ShipPrefabs/Ship_1</prefab>
+	</Item>
+	<Item>
+		<speed>1.7</speed>
+		<rotate>1.7</rotate>
+		<model>ShipUI/Ship_2</model>
+		<price>3000</price>
+		<id>1</id>
+    <prefab>ShipPrefabs/Ship_2</prefab>
+	</Item>
+	<Item>
+		<speed>1.9</speed>
+		<rotate>1.9</rotate>
+		<model>ShipUI/Ship_3</model>
+		<price>5000</price>
+		<id>2</id>
+    <prefab>ShipPrefabs/Ship_3</prefab>
+	</Item>
+	<Item>
+		<speed>2.2</speed>
+		<rotate>2.2</rotate>
+		<model>ShipUI/Ship_4</model>
+		<price>8000</price>
+		<id>3</id>
+    <prefab>ShipPrefabs/Ship_4</prefab>
+	</Item>	
+</Shop>
